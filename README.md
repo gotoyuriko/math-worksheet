@@ -15,8 +15,8 @@ An interactive math worksheet application built with React for practicing roundi
 
 ## 🚀 Live Demo
 
-- **Web App**: [Your deployed URL here]
-- **Repository**: [Your GitHub repository URL here]
+- **Web App**: https://gotoyuriko-math-worksheet.netlify.app/
+- **Repository**: https://github.com/gotoyuriko/math-worksheet
 
 ## 📋 Requirements Met
 
